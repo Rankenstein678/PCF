@@ -1,5 +1,5 @@
-Scherrate 1/s	Schubspannung Pa	Momentane Viskosität Pas	Deformation  	Soll-Scherrate 1/s	Abweichung %	Temperatur °C	Zeit s	Summierte Zeit s	Hinweis
-0.06085	1.489	24.47	0.3827	0.1082	43.79	23	3.032	3.032	
+Scherrate 1/s	Schubspannung Pa	Momentane Viskositï¿½t Pas	Deformation  	Soll-Scherrate 1/s	Abweichung %	Temperatur ï¿½C	Zeit s	Summierte Zeit s	Hinweis
+0.06085	1.489	24.47	0.3827	0.1082	43.79	23	3.032	3.032
 0.1022	2.789	27.28	1.005	0.1264	19.12	23	9.056	9.056	
 0.1288	3.487	27.06	1.819	0.1477	12.74	23	15.06	15.06	
 0.1541	4.303	27.93	2.724	0.1725	10.67	23	21.06	21.06	
